@@ -1,4 +1,4 @@
-import "./styles.css";
+//import "./styles.css";
 
 let foundDrinkTime = false;
 let contentLoaded = false;
